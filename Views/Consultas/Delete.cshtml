@@ -1,0 +1,67 @@
+﻿@model AgendaConsultas.Models.Consulta
+
+@{
+    ViewData["Title"] = "Excluir Consulta";
+}
+
+<div class="row justify-content-center">
+
+    <div class="col-md-7">
+
+        <h2 class="mb-4">
+            Excluir Consulta
+        </h2>
+
+        <div class="alert alert-warning">
+
+            <strong>Atenção!</strong>
+
+            Tem certeza de que deseja excluir esta consulta?
+
+        </div>
+
+        <div class="card mb-4">
+
+            <div class="card-body">
+
+                <p>
+                    <strong>Especialidade:</strong>
+                    @Model.Especialidade
+                </p>
+
+                <p>
+                    <strong>Data e Hora:</strong>
+                    @Model.DataHora.ToString("dd/MM/yyyy HH:mm")
+                </p>
+
+                <p>
+                    <strong>Descrição:</strong>
+                    @Model.Descricao
+                </p>
+
+            </div>
+
+        </div>
+
+        <form asp-action="DeleteConfirmed"
+              method="post">
+
+            <input type="hidden"
+                   name="id"
+                   value="@Model.Id" />
+
+            <button type="submit"
+                    class="btn btn-danger">
+                Confirmar Exclusão
+            </button>
+
+            <a asp-action="Index"
+               class="btn btn-secondary">
+                Cancelar
+            </a>
+
+        </form>
+
+    </div>
+
+</div>
