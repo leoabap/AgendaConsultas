@@ -184,7 +184,7 @@ Logout
 O vídeo demonstrativo apresenta o funcionamento do cadastro de usuário, login, autenticação e gerenciamento das consultas.
 
 **Link do vídeo:**
-INSERIR_LINK_DO_VIDEO_AQUI
+- Postar o vídeo no YouTube!
 
 ## Integrantes
 
