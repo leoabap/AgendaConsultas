@@ -190,7 +190,7 @@ O vídeo demonstrativo apresenta o funcionamento do cadastro de usuário, login,
 
 Inserir os integrantes do grupo em ordem alfabética:
 
-Leonardo Nobre Fagnoni
+Leonardo Nobre Fagnoni - RA.202530221
 
 ## Disciplina
 
