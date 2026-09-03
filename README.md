@@ -6,7 +6,7 @@ O sistema permite a autenticação e o cadastro de usuários e o gerenciamento d
 
 ## Professores UVV.
 
-Os professores são: FABRICIO Ribeiro Ferreira
+Nosso Professor: FABRICIO Ribeiro Ferreira
 e o nosso Tutor é: João Pedro Fehlberg dos Santos.
 Senhores, muito obrigado pela avaliação!
 
@@ -198,6 +198,6 @@ Leonardo Nobre Fagnoni - RA.202530221
 
 ## Disciplina
 
-**Desenvolvimento Back-end**
+**Desenvolvimento Web Back-end I**
 
 Projeto acadêmico desenvolvido utilizando ASP.NET Core MVC, Entity Framework Core e SQL Server para a Atividade Online Pontuada 2!
