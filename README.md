@@ -190,7 +190,7 @@ Logout
 O vídeo demonstrativo apresenta o funcionamento do cadastro de usuário, login, autenticação e gerenciamento das consultas.
 
 **Link do vídeo:**
-- Postar o vídeo no YouTube!!
+https://youtu.be/f9xEWLaCJXk
 
 ## Integrantes
 

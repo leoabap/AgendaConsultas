@@ -1,1 +1,1 @@
-select * from usuarios where id = 1;
+select * from Usuarios
