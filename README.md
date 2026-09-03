@@ -1,8 +1,14 @@
 # AgendaConsultas
 
-Aplicação Web desenvolvida em **C# utilizando ASP.NET Core MVC**, criada como projeto da disciplina de **Desenvolvimento Back-end**.
+Aplicação Web desenvolvida em **C# utilizando ASP.NET Core MVC**, criada para d disciplina de **Desenvolvimento Web Back-end**.
 
-O sistema permite o cadastro e autenticação de usuários e o gerenciamento de consultas. Cada usuário autenticado possui acesso exclusivamente às suas próprias consultas.
+O sistema permite a autenticação e o cadastro de usuários e o gerenciamento de consultas. Cada usuário autenticado possui acesso exclusivamente às suas próprias consultas.
+
+## Professores UVV.
+
+Os professores são: FABRICIO Ribeiro Ferreira
+e o nosso Tutor é: João Pedro Fehlberg dos Santos.
+Senhores, muito obrigado pela avaliação!
 
 ## Funcionalidades
 
@@ -21,15 +27,15 @@ O sistema permite o cadastro e autenticação de usuários e o gerenciamento de 
 
 ## Tecnologias utilizadas
 
-* C#
+* C# ( CSharp )
 * ASP.NET Core MVC
 * Entity Framework Core
-* SQL Server / LocalDB
-* Razor Views
+* SQL Server / LocalDB ( Banco de Dados Local )
+* Razor Views ( Templates )
 * Bootstrap
-* Cookie Authentication
+* Cookie Authentication ( Login dos usuários )
 * Data Annotations
-* Visual Studio
+* Visual Studio ( IDE do Desenvolvimento )
 
 ## Arquitetura
 
@@ -188,12 +194,10 @@ O vídeo demonstrativo apresenta o funcionamento do cadastro de usuário, login,
 
 ## Integrantes
 
-Inserir os integrantes do grupo em ordem alfabética:
-
 Leonardo Nobre Fagnoni - RA.202530221
 
 ## Disciplina
 
 **Desenvolvimento Back-end**
 
-Projeto acadêmico desenvolvido utilizando ASP.NET Core MVC, Entity Framework Core e SQL Server.
+Projeto acadêmico desenvolvido utilizando ASP.NET Core MVC, Entity Framework Core e SQL Server para a Atividade Online Pontuada 2!
